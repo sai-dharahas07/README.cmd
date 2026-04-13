@@ -18,7 +18,8 @@ Tools: Git, GitHub, Visual Studio Code, Visual Studio
 
 **Contact:**
 Email: saidharahas05@gmail.com
+
 LinkedIn: www.linkedin.com/in/sai-dharahas-thatipamula-4b6837325/
 
-**Statement**
+**Statement**:
 I am committed to continuous learning and building meaningful projects that enhance my skills and contribute to real-world solutions.
