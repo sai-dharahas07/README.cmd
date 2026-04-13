@@ -14,7 +14,8 @@ Web Development
 
 Programming: 
 
-Python, C#, Java (basic)
+Python, 
+C#, Java (basic)
 Web: HTML, CSS (learning)
 Tools: Git, GitHub, Visual Studio Code, Visual Studio
 
